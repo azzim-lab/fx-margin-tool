@@ -14,3 +14,6 @@
 - Expand to 10+ currency pairs.  
 
 ![Demo](screenshot.png) *(Upload your screenshot!)*  
+
+eur_rate = data["rates"]["EUR"]
+print(f"1 EUR = {eur_rate} USD")  # Add this below your SGD code
