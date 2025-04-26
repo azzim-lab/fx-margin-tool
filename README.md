@@ -14,3 +14,6 @@
 - Expand to 10+ currency pairs.  
 
 ![Demo](screenshot.png) *(Upload your screenshot!)*  
+
+**Recent Update:**  
+- Added EUR/USD rate tracking  
